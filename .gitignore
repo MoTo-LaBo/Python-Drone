@@ -1,0 +1,39 @@
+
+__pycache__
+staticfiles
+local_settings.py
+db.sqlite3
+*.py[co]
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+
+# pyenv
+.python-version
+pyvenv.cfg
+
+# virtualenv
+.venv
+venv/
+ENV/
+drone/
+
+# jupyter lab
+*.bundle.*
+lib/
+node_modules/
+*.egg-info/
+.ipynb_checkpoints
+*.tsbuildinfo
+jupyterlab_git/labextension
+
+# OSX files
+.DS_Store
+.vscode
+.idea
+
+# project
