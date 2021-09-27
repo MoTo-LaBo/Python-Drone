@@ -37,3 +37,5 @@ jupyterlab_git/labextension
 .idea
 
 # project
+drone*
+_MACOSX*
